@@ -14,7 +14,7 @@ PRODUCT_RELEASE_NAME := peridot
 
 ## Device identifier
 PRODUCT_DEVICE := peridot
-PRODUCT_NAME := twrp_peridot
+PRODUCT_NAME := pb_peridot
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := RedmiTurbo3
 PRODUCT_MANUFACTURER := Xiaomi
@@ -24,5 +24,5 @@ TARGET_OTA_ASSERT_DEVICE := peridot
 
 # Theme
 TW_STATUS_ICONS_ALIGN := center
-TW_Y_OFFSET := 99
-TW_H_OFFSET := -99
+# TW_Y_OFFSET := 99
+# TW_H_OFFSET := -99
