@@ -30,7 +30,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'peridot'
+        default: 'pb_peridot'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
@@ -50,7 +50,7 @@ on:
       USER_EMAIL:
         description: 'Git Email'
         required: true
-        default: 'cuongdieu@gmai.com'
+        default: 'cuongdieu@gmail.com'
 
 jobs:
   build:
